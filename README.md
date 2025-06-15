@@ -23,22 +23,31 @@ Welcome to my GitHub! I'm a passionate ServiceNow Developer with experience buil
 - ✅ **ServiceNow Certified Implementation Specialist – ITSM (CIS-ITSM)**
 
 
-### 🛠️ Tech & Tools
+## 🛠️ Tech Stack & Skills
+
+[![ServiceNow](https://img.shields.io/badge/-ServiceNow-0b5f19?logo=servicenow&logoColor=white)](https://www.servicenow.com/)
+[![REST API](https://img.shields.io/badge/-REST%20API-blue?logo=cloudflare)](https://restfulapi.net/)
+[![SOAP API](https://img.shields.io/badge/-SOAP%20API-00B4D8?logo=xml)](https://www.w3schools.com/xml/xml_soap.asp)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Flow Designer](https://img.shields.io/badge/-Flow%20Designer-orange)](https://developer.servicenow.com/dev.do#!/learn/learning-plans/tokyo/app_store_learnv2_flowdesigner_tokyo_flow_designer)
+[![GlideRecord](https://img.shields.io/badge/-GlideRecord-0b5f19?logo=code&logoColor=white)](https://developer.servicenow.com/dev.do#!/reference/api/tokyo/server_legacy/c_GlideRecordAPI)
+[![Client Script](https://img.shields.io/badge/-Client%20Scripts-blueviolet?logo=javascript)](https://developer.servicenow.com/dev.do#!/reference/api/tokyo/client/c_ClientScriptAPI)
+[![Business Rule](https://img.shields.io/badge/-Business%20Rule-6A1B9A?logo=gear&logoColor=white)](https://developer.servicenow.com/dev.do#!/learn/learning-plans/tokyo/app_store_learnv2_businessrules_tokyo_business_rules)
+[![Integration](https://img.shields.io/badge/-Integration-26a69a?logo=plug&logoColor=white)](https://developer.servicenow.com/dev.do#!/learn/learning-plans/tokyo/app_store_learnv2_integrationhub_tokyo_integrationhub)
+
+## 💻 Programming Languages
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-![ServiceNow](https://img.shields.io/badge/-ServiceNow-0b5f19?logo=servicenow&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-blue?logo=cloudflare)
-![SOAP API](https://img.shields.io/badge/-SOAP%20API-00B4D8?logo=xml)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
-![Flow Designer](https://img.shields.io/badge/-Flow%20Designer-orange)
-![GlideRecord](https://img.shields.io/badge/-GlideRecord-0b5f19?logo=code&logoColor=white)
-![Client Script](https://img.shields.io/badge/-Client%20Scripts-blueviolet?logo=javascript)
-![Business Rule](https://img.shields.io/badge/-Business%20Rule-6A1B9A?logo=gear&logoColor=white)
-![Integration](https://img.shields.io/badge/-Integration-26a69a?logo=plug&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)](https://www.w3schools.com/sql/)
+[![Shell](https://img.shields.io/badge/-Shell%20Script-89e051?logo=gnu-bash&logoColor=black)](https://www.shellscript.sh/)
+
 
 
 ---
