@@ -16,6 +16,13 @@ Welcome to my GitHub! I'm a passionate ServiceNow Developer with experience buil
 
 ---
 
+### 🎓 Certifications
+
+- ✅ **ServiceNow Certified System Administrator (CSA)**
+- ✅ **ServiceNow Certified Application Developer (CAD)**
+- ✅ **ServiceNow Certified Implementation Specialist – ITSM (CIS-ITSM)**
+
+
 ### 🛠️ Tech & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
