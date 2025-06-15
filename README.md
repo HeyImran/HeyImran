@@ -57,17 +57,21 @@ Welcome to my GitHub! I'm a passionate ServiceNow Developer with experience buil
 ![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imran938&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imran938&layout=compact&theme=radical)
 
-### 📱 Connect with me:
 
 <h3>📱 Connect with me:</h3>
 
 <a href="https://www.instagram.com/mr__.smile/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40" style="margin-right: 15px;" />
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100013782994408" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40" style="margin-right: 15px;" />
 </a>
+
+<a href="https://www.linkedin.com/in/imran-shaik-2192b01a1/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
+</a>
+
 
 
 
