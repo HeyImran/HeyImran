@@ -1,4 +1,60 @@
-## Hi there 👋
+# 👋 Hi there, I'm Imran Shaik
+
+🚀 **ServiceNow Developer | 3 Years Experience | ITSM | JavaScript | Integrations**
+
+Welcome to my GitHub! I'm a passionate ServiceNow Developer with experience building enterprise-grade solutions that automate workflows and improve IT service delivery. I love solving problems using clean scripting, automation, and integrations.
+
+---
+
+### 🧠 What I Do
+
+- 🔹 Customize and enhance ITSM modules (Incident, Change, Problem)
+- 🔹 Develop Client Scripts, Business Rules, Script Includes, and Flow Designer workflows
+- 🔹 Build scoped applications and automation scripts
+- 🔹 REST & SOAP API integrations with third-party tools
+- 🔹 Hands-on with CMDB, MID Servers, Notifications, UI Policies
+
+---
+
+### 🛠️ Tech & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-0b5f19?logo=servicenow&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-blue)
+![Flow Designer](https://img.shields.io/badge/-Flow%20Designer-orange)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
+
+---
+
+### 📈 GitHub Stats
+
+![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+> ✳️ Replace `your-github-username` with your actual GitHub username above!
+
+---
+
+### 📌 Featured Projects
+
+- 🔧 [Incident Auto Assignment Script](https://github.com/your-github-username/project-link) – GlideRecord-based script to auto-assign incidents based on support groups.
+- 🌐 [REST API Integration with Jira](https://github.com/your-github-username/project-link) – Outbound REST script to integrate ServiceNow with Jira.
+- 🧩 [Scoped App: Knowledge Management Tool](https://github.com/your-github-username/project-link) – Custom app to streamline KM workflow inside ServiceNow.
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?logo=github&logoColor=white)](https://github.com/your-github-username)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+*“Automation is good, so long as you know exactly where to put the machine.” — Eliyahu Goldratt*
+
+
 
 <!--
 **Imran938/imran938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
