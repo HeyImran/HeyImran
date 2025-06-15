@@ -62,16 +62,30 @@ Welcome to my GitHub! I'm a passionate ServiceNow Developer with experience buil
 
 <p>
   <a href="https://www.instagram.com/mr__.smile/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"
+         alt="Instagram"
+         width="40"
+         height="40"
+         style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); margin-right: 20px; transition: transform 0.3s;" />
   </a>
 
   <a href="https://www.facebook.com/profile.php?id=100013782994408" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png"
+         alt="Facebook"
+         width="40"
+         height="40"
+         style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); margin-right: 20px; transition: transform 0.3s;" />
   </a>
 
-<a href="https://www.linkedin.com/in/imran-shaik-2192b01a1/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
-</a>
+  <a href="https://www.linkedin.com/in/imran-shaik-2192b01a1/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+         alt="LinkedIn"
+         width="40"
+         height="40"
+         style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.3s;" />
+  </a>
+</p>
+
 
 
 
