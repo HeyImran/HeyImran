@@ -59,8 +59,12 @@ Welcome to my GitHub! I'm a passionate ServiceNow Developer with experience buil
 
 ### 📱 Connect with me:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/mr__.smile/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/profile.php?id=100013782994408)
+<a href="https://www.instagram.com/mr__.smile/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.facebook.com/profile.php?id=100013782994408" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
 
 
 
