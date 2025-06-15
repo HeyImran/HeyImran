@@ -29,8 +29,8 @@ Welcome to my GitHub! I'm a passionate ServiceNow Developer with experience buil
 
 ### 📈 GitHub Stats
 
-![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imran938&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imran938&layout=compact&theme=radical)
 
 > ✳️ Replace `your-github-username` with your actual GitHub username above!
 
@@ -38,9 +38,9 @@ Welcome to my GitHub! I'm a passionate ServiceNow Developer with experience buil
 
 ### 📌 Featured Projects
 
-- 🔧 [Incident Auto Assignment Script](https://github.com/your-github-username/project-link) – GlideRecord-based script to auto-assign incidents based on support groups.
-- 🌐 [REST API Integration with Jira](https://github.com/your-github-username/project-link) – Outbound REST script to integrate ServiceNow with Jira.
-- 🧩 [Scoped App: Knowledge Management Tool](https://github.com/your-github-username/project-link) – Custom app to streamline KM workflow inside ServiceNow.
+- 🔧 [Incident Auto Assignment Script](https://github.com/imran938/project-link) – GlideRecord-based script to auto-assign incidents based on support groups.
+- 🌐 [REST API Integration with Jira](https://github.com/imran938/project-link) – Outbound REST script to integrate ServiceNow with Jira.
+- 🧩 [Scoped App: Knowledge Management Tool](https://github.com/imran938/project-link) – Custom app to streamline KM workflow inside ServiceNow.
 
 ---
 
