@@ -27,10 +27,19 @@ Welcome to my GitHub! I'm a passionate ServiceNow Developer with experience buil
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-0b5f19?logo=servicenow&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-blue)
-![Flow Designer](https://img.shields.io/badge/-Flow%20Designer-orange)
+![REST API](https://img.shields.io/badge/-REST%20API-blue?logo=cloudflare)
+![SOAP API](https://img.shields.io/badge/-SOAP%20API-00B4D8?logo=xml)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
+![Flow Designer](https://img.shields.io/badge/-Flow%20Designer-orange)
+![GlideRecord](https://img.shields.io/badge/-GlideRecord-0b5f19?logo=code&logoColor=white)
+![Client Script](https://img.shields.io/badge/-Client%20Scripts-blueviolet?logo=javascript)
+![Business Rule](https://img.shields.io/badge/-Business%20Rule-6A1B9A?logo=gear&logoColor=white)
+![Integration](https://img.shields.io/badge/-Integration-26a69a?logo=plug&logoColor=white)
+
 
 ---
 
