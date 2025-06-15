@@ -39,9 +39,6 @@ Welcome to my GitHub! I'm a passionate ServiceNow Developer with experience buil
 ![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imran938&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imran938&layout=compact&theme=radical)
 
-<! ✳️ Replace `your-github-username` with your actual GitHub username above! >
-
----
 
 ### 📌 Featured Projects
 
@@ -58,8 +55,6 @@ Welcome to my GitHub! I'm a passionate ServiceNow Developer with experience buil
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:imranshaik07769@gmail.com)
 
 ---
-
-*“Automation is good, so long as you know exactly where to put the machine.” — Eliyahu Goldratt*
 
 
 
