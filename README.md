@@ -33,12 +33,13 @@ Welcome to my GitHub! I'm a passionate ServiceNow Developer with experience buil
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)](https://code.visualstudio.com/)
-[![Flow Designer](https://img.shields.io/badge/-Flow%20Designer-orange?logo=servicenow)](https://www.servicenow.com/products/platform-flow-designer.html)
-[![GlideRecord (Server)](https://img.shields.io/badge/-GlideRecord-0b5f19?logo=servicenow)](https://docs.servicenow.com/bundle/yokohama-api-reference/page/app-store/dev_portal/API_reference/GlideRecord/concept/c_GlideRecordAPI.html)  :contentReference[oaicite:1]{index=1}
-[![GlideRecord (Client)](https://img.shields.io/badge/-GlideRecord (Client)-0b5f19?logo=servicenow)](https://docs.servicenow.com/bundle/yokohama-api-reference/page/app-store/dev_portal/API_reference/GlideRecordClientSide/concept/c_GlideRecordClientSideAPI.html)  :contentReference[oaicite:2]{index=2}
-[![Client Script](https://img.shields.io/badge/-Client%20Scripts-blueviolet?logo=javascript)](https://developer.servicenow.com/dev.do#!/reference/api/tokyo/client/c_ClientScriptAPI)
-[![Business Rule](https://img.shields.io/badge/-Business%20Rule-6A1B9A?logo=gear)](https://docs.servicenow.com/bundle/yokohama-application-development/page/build/server-scripting/concept/c_BusinessRule.html)
+[![Flow Designer](https://img.shields.io/badge/-Flow%20Designer-orange?logo=servicenow)](https://www.servicenow.com/products/platform-flow-designer.html)  
+[![GlideRecord (Server)](https://img.shields.io/badge/-GlideRecord-0b5f19?logo=servicenow)](https://docs.servicenow.com/bundle/yokohama-api-reference/page/app-store/dev_portal/API_reference/GlideRecord/concept/c_GlideRecordAPI.html)  
+[![GlideRecord (Client)](https://img.shields.io/badge/-GlideRecord–Client-0b5f19?logo=servicenow)](https://docs.servicenow.com/bundle/vancouver-api-reference/page/app-store/dev_portal/API_reference/GlideRecordClientSide/concept/c_GlideRecordClientSideAPI.html)  
+[![Client Script](https://img.shields.io/badge/-Client%20Scripts-blueviolet?logo=javascript)](https://developer.servicenow.com/dev.do#!/reference/api/tokyo/client/c_ClientScriptAPI)  
+[![Business Rule](https://img.shields.io/badge/-Business%20Rule-6A1B9A?logo=servicenow)](https://www.servicenow.com/docs/bundle/yokohama-application-development/page/script/business-rules/concept/c_BusinessRules.html)  
 [![Integration Hub](https://img.shields.io/badge/-Integration%20Hub-26a69a?logo=servicenow)](https://www.servicenow.com/products/integration-hub.html)
+
 
 
 ## 💻 Programming Languages
