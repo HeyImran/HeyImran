@@ -38,7 +38,9 @@ Welcome to my GitHub! I'm a passionate ServiceNow Developer with experience buil
 [![GlideRecord (Client)](https://img.shields.io/badge/-GlideRecord–Client-0b5f19?logo=servicenow)](https://docs.servicenow.com/bundle/yokohama-api-reference/page/build/client-side-scripting/concept/c_ClientSideAPIs.html)
 [![Client Script](https://img.shields.io/badge/-Client%20Scripts-blueviolet?logo=javascript)](https://docs.servicenow.com/bundle/yokohama-application-development/page/build/servicenow-scripting/client-scripting/concept/client-scripting.html)
 [![Business Rule](https://img.shields.io/badge/-Business%20Rule-6A1B9A?logo=servicenow)](https://docs.servicenow.com/bundle/yokohama-application-development/page/build/server-scripting/concept/c_BusinessRules.html)
-[![Integration Hub](https://img.shields.io/badge/-Integration%20Hub-26a69a?logo=servicenow)](https://www.servicenow.com/products/integration-hub.html)
+[![Integration Hub](https://img.shields.io/badge/-Integration%20Hub-26a69a?logo=servicenow)](https://docs.servicenow.com/bundle/yokohama-integrate-applications/page/administer/integrationhub/concept/integrationhub.html)
+
+
 
 
 
