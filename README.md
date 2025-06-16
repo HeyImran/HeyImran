@@ -96,8 +96,8 @@ Welcome to my GitHub! I'm a passionate ServiceNow Developer with experience buil
 ### 📌 Featured Projects
 
 - 🔧 [Incident Auto Assignment Script](https://github.com/HeyImran/incident-auto-assignment.git) – GlideRecord-based script to auto-assign incidents based on support groups.
-- 🌐 [REST API Integration with Jira](https://github.com/imran938/project-link) – Outbound REST script to integrate ServiceNow with Jira.
-- 🧩 [Scoped App: Knowledge Management Tool](https://github.com/imran938/project-link) – Custom app to streamline KM workflow inside ServiceNow.
+- 🌐 [REST API Integration with Jira](https://github.com/HeyImran/servicenow-jira-rest-integration.git) – Outbound REST script to integrate ServiceNow with Jira.
+  
 
 ---
 
