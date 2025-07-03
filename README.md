@@ -58,8 +58,8 @@ Welcome to my GitHub! I'm a passionate ServiceNow Developer with experience buil
 
 ### 📈 GitHub Stats
 
-![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imran938&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imran938&layout=compact&theme=radical)
+![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeyImran&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyImran&layout=compact&theme=radical)
 
 
 <h3>📱 Connect with me:</h3>
